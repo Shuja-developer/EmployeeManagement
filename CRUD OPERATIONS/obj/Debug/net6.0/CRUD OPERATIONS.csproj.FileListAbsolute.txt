@@ -1,0 +1,68 @@
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\appsettings.Development.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\appsettings.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\CRUD OPERATIONS.staticwebassets.runtime.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\CRUD OPERATIONS.exe
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\CRUD OPERATIONS.deps.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\CRUD OPERATIONS.runtimeconfig.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\CRUD OPERATIONS.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\CRUD OPERATIONS.pdb
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.AssemblyInfoInputs.cache
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.AssemblyInfo.cs
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.csproj.CoreCompileInputs.cache
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.MvcApplicationPartsAssemblyInfo.cache
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.RazorAssemblyInfo.cache
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.RazorAssemblyInfo.cs
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\staticwebassets.build.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\staticwebassets.development.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\staticwebassets\msbuild.CRUD OPERATIONS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD OPERATIONS.props
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD OPERATIONS.props
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD OPERATIONS.props
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\scopedcss\bundle\CRUD OPERATIONS.styles.css
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\scopedcss\projectbundle\CRUD OPERATIONS.bundle.scp.css
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\refint\CRUD OPERATIONS.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.pdb
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.genruntimeconfig.cache
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\ref\CRUD OPERATIONS.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPERATIONS.csproj.AssemblyReference.cache
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\obj\Debug\net6.0\CRUD OPE.70196E03.Up2Date
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Humanizer.dll
+D:\CRUD OPERATIONS\CRUD OPERATIONS\CRUD OPERATIONS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
